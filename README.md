@@ -35,3 +35,6 @@ The Northwind Database is made up of eleven(11) tables containing data on all as
 
 11. **_Territories_**: Contains data about the territories in which Northwind Traders operates. Each territory has a unique ID, a name, and the ID of the region to which it belongs.
 
+
+# Methodology
+The project made use of DBeaver as the Database Management System and SQL was used to query the database. Visualizations were created from the queried data mainly using Microsof Excel
