@@ -63,3 +63,17 @@ In terms of sales, the first chart suggests that there is no link between the nu
 
 The second chart suggests a direct correlation between the number of orders and the number of products sales, with increasing orders resulting in increasing product sales
 
+### Low Ordering Countries
+<div style="display:flex; justify-content:space-between;">
+    <img src=https://user-images.githubusercontent.com/119953557/232347971-42dd6cea-9431-4035-9cfd-50d4f220211b.png width="500" height="300"/>
+    <img src=https://user-images.githubusercontent.com/119953557/232347969-f3a3d17e-405c-415a-8a0f-3dd9e9a7aa8c.png width="500" height="300"/>
+</div>
+
+
+### Effect of Discounts on Purchasing Patterns of each Country
+![Effect of Discounts](https://user-images.githubusercontent.com/119953557/232348524-d0514512-4b31-4e10-acc6-359e026e6586.png)
+With the exception of Ireland, Canada, Italy and Portugal, non discount purchases for the most part are slightly higher than discount purchases. Poland, Norway and Argentina, 3 of the 5 countries with the least ordered items have no discount purchases probably due to no discount campaigns, an opportunity which can be utilized to achieve about 20-50% increase in sales. To arrive at a much better conclusion on the effect of discounts, data on the duration of the discount period is needed, which unfortunately is lacking 
+
+### Delayed Orders per Country
+![Delayed Orders per Country](https://user-images.githubusercontent.com/119953557/232348585-f0071632-b5d0-4588-aa47-3725e8c5e06c.png)
+Relative to number of orders, Mexico, Italy, Finland, Poland and Norway have high incidence of delayed orders. Poland and Norway have the worst record of 85% and 100% delays respectively, although this can be attributed to their significantly small number of orders of 7 and 6, which also makes them the countries with the least amount of orders
