@@ -8,4 +8,4 @@ The project focuses on the use of SQL to query data from a database
 1. To obtain hands on experience on the use of SQL to query data from a database
 
 ## Database Schema
-![Northwind Schema]()
+![Northwind Schema](Northwind_ERD.png)
