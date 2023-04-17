@@ -54,7 +54,7 @@ An exact profit or loss statement cannot be made since there is no data for othe
 ### Top 10 Selling Products by Number
 ![Top 10](https://user-images.githubusercontent.com/119953557/232346381-d5d548a7-c869-48c3-a2dd-31b920739890.png)
 
-###Employee Sales and Territory Analysis
+### Employee Sales and Territory Analysis
 <div style="display:flex; justify-content:space-between;">
 <img src=https://user-images.githubusercontent.com/119953557/232346588-cded1aad-7167-4d32-a517-8dec3de4b489.png width="500" height="300"/>
 <img src=https://user-images.githubusercontent.com/119953557/232346581-232f0f82-776d-4cdc-8b8e-4af01e323ba8.png width="500" height="300"/>
