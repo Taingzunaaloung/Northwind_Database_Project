@@ -86,4 +86,20 @@ This chart also follows the thought that, with higher product sales comes higher
 
 ### Delayed Orders per Country
 ![Delayed Orders per Country](https://user-images.githubusercontent.com/119953557/232348585-f0071632-b5d0-4588-aa47-3725e8c5e06c.png)
-Relative to number of orders, Mexico, Italy, Finland, Poland and Norway have high incidence of delayed orders. Poland and Norway have the worst record of 85% and 100% delays respectively, although this can be attributed to their significantly small number of orders of 7 and 6, which also makes them the countries with the least amount of orders
+Relative to number of orders, Mexico, Italy, Finland, Poland and Norway have high incidence of delayed orders. Poland and Norway have the worst record of 85% and 100% delays respectively, although this can be attributed to their significantly small number of orders of 7 and 6, which also makes them the countries with the least  amount of orders
+   
+ 
+### Proposals to Improve Sales
+
+#### 1. Re-Introduction of Discontinued Products
+![Discontinued](https://user-images.githubusercontent.com/119953557/232359374-e46defee-3c33-4daf-9c26-914940666987.png)
+The company since inception has sold a total of 77 products, out of which 8 have been discontinued.
+6 out of the 8 products have pretty decent demand based on the total quantity sold, with the 6th product occupying the 40th position out of 77 products.
+It is recommended that, the top six discontinued products with high sales record be reintroduced into the market to improve sales for the company
+
+
+#### 2. Targeted Advertisement
+![Revenue Generated from Specific Contact Titles](https://user-images.githubusercontent.com/119953557/232360305-38f7b6a7-0828-4064-8bc4-bc9b0d6647a8.png)
+Analyzing the revenue made, it can be realized that revenue made is higher when our contact person in a buyer company holds a specific title or position, while other positions produce lower revenue for the company.
+It is recommended that the company’s marketing and advertisement campaigns be primarily directed towards individuals who hold positions corresponding to high revenue as per the data
+
