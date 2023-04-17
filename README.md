@@ -64,7 +64,7 @@ In terms of sales, the first chart suggests that there is no link between the nu
 The second chart suggests a direct correlation between the number of orders and the number of products sales, with increasing orders resulting in increasing product sales
 
 ### Employee Revenue
-![Employee Revenue](https://user-images.githubusercontent.com/119953557/232350894-310848ac-d52e-491e-81f6-a873e61d788b.png)
+![Employee Revenue](https://user-images.githubusercontent.com/119953557/232353697-b90e015c-351a-4979-ba85-7d8c97d69b64.png)
 This chart shows that, for the most part, the higher the number of products sold, the higher the revenue generated with the exception of Anne Dodworth who had a higher revenue than Michael and Steven despite having lower product sales
 
 ### Low Ordering Countries
@@ -77,6 +77,12 @@ This chart shows that, for the most part, the higher the number of products sold
 ### Effect of Discounts on Purchasing Patterns of each Country
 ![Effect of Discounts](https://user-images.githubusercontent.com/119953557/232348524-d0514512-4b31-4e10-acc6-359e026e6586.png)
 With the exception of Ireland, Canada, Italy and Portugal, non discount purchases for the most part are slightly higher than discount purchases. Poland, Norway and Argentina, 3 of the 5 countries with the least ordered items have no discount purchases probably due to no discount campaigns, an opportunity which can be utilized to achieve about 20-50% increase in sales. To arrive at a much better conclusion on the effect of discounts, data on the duration of the discount period is needed, which unfortunately is lacking 
+
+
+### Revenue Generated from Each Country
+![Revenue Generated from Each Country](https://user-images.githubusercontent.com/119953557/232352617-61507898-4695-4d28-97fc-e7764131bd4c.png)
+This chart also follows the thought that, with higher product sales comes higher revenue generation 
+
 
 ### Delayed Orders per Country
 ![Delayed Orders per Country](https://user-images.githubusercontent.com/119953557/232348585-f0071632-b5d0-4588-aa47-3725e8c5e06c.png)
