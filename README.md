@@ -63,6 +63,10 @@ In terms of sales, the first chart suggests that there is no link between the nu
 
 The second chart suggests a direct correlation between the number of orders and the number of products sales, with increasing orders resulting in increasing product sales
 
+### Employee Revenue
+![Employee Revenue](https://user-images.githubusercontent.com/119953557/232350894-310848ac-d52e-491e-81f6-a873e61d788b.png)
+This chart shows that, for the most part, the higher the number of products sold, the higher the revenue generated with the exception of Anne Dodworth who had a higher revenue than Michael and Steven despite having lower product sales
+
 ### Low Ordering Countries
 <div style="display:flex; justify-content:space-between;">
     <img src=https://user-images.githubusercontent.com/119953557/232347971-42dd6cea-9431-4035-9cfd-50d4f220211b.png width="500" height="300"/>
