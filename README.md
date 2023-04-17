@@ -102,4 +102,3 @@ It is recommended that, the top six discontinued products with high sales record
 ![Revenue Generated from Specific Contact Titles](https://user-images.githubusercontent.com/119953557/232360305-38f7b6a7-0828-4064-8bc4-bc9b0d6647a8.png)
 Analyzing the revenue made, it can be realized that revenue made is higher when our contact person in a buyer company holds a specific title or position, while other positions produce lower revenue for the company.
 It is recommended that the company’s marketing and advertisement campaigns be primarily directed towards individuals who hold positions corresponding to high revenue as per the data
-
